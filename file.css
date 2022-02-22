@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+SongList {
+
+    text-align: center;
+    background-color:#F1C0E8;
+}
+
+Header{
+    font-family: fantasy;
+    font-size: x-large;
+    color: crimson;
+}
+Song {
+    display: block;
+    background-color: white;
+	color: red ;
+
+	border-right:10px whitesmoke solid;
+	border-left:10px whitesmoke solid;
+	border-top:10px whitesmoke solid;
+	border-bottom:10px whitesmoke solid;
+
+    text-align: center;
+	margin-top:20px;
+    margin-left:10%;
+    margin-right:10%;
+
+
+}
+
+title, genre, artist, year{
+    display:block;
+}

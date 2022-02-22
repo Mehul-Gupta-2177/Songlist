@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "file.css" ?>
+<SongList>
+    <Header>WEDDING PLAYLIST</Header>
+    <Song>
+        <title>Can’t Help Falling In Love</title>
+        <genre>Pop</genre>
+        <artist>Elvis Presley</artist>
+        <year>1961</year>
+    </Song>
+    <Song>
+        <title>Bless the Broken Road</title>
+        <genre>Country, Pop</genre>
+        <artist>Rascal Flatts</artist>
+        <year>2004</year>
+    </Song>
+    <Song>
+        <title>24k Magic</title>
+        <genre> Contemporary R &amp; B</genre>
+        <artist>Bruno Mars</artist>
+        <year>2016</year>
+    </Song>
+    <Song>
+        <title>Adore You </title>
+        <genre>Pop</genre>
+        <artist>Harry Styles</artist>
+        <year>2019</year>
+    </Song>
+    <Song>
+        <title>Africa</title>
+        <genre>Pop</genre>
+        <artist>Toto</artist>
+        <year>1982</year>
+    </Song>
+    <Song>
+        <title>Best Day Of My Life</title>
+        <genre>Pop rock indie</genre>
+        <artist>American Authors</artist>
+        <year>2013</year>
+    </Song>
+    <Song>
+        <title>Billie Jean</title>
+        <genre>R&amp;B/Soul</genre>
+        <artist>Michael Jackson</artist>
+        <year>1982</year>
+    </Song>
+    <Song>
+        <title>Uptown Funk</title>
+        <genre>Funk, Boogie, Pop</genre>
+        <artist>Mark Ronson ft. Bruno Mars</artist>
+        <year>2014</year>
+    </Song>
+    <Song>
+        <title>Say So</title>
+        <genre>Pop, Rap</genre>
+        <artist>Doja Cat</artist>
+        <year>2019</year>
+    </Song>
+    <Song>
+        <title>Drop It Like It's Hot</title>
+        <genre>Hip-Hop, Rap</genre>
+        <artist>Snoop Dogg</artist>
+        <year>2004</year>
+    </Song>    
+</SongList>
